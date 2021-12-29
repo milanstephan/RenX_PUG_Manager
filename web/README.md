@@ -1,4 +1,4 @@
-# Getting Started with Renegade X PUG Manager
+# Getting Started with Renegade X PUG Manager - Client
 
 ## Available Scripts
 
